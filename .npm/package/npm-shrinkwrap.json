@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jquery-appear-poetic": {
+      "version": "0.3.6",
+      "dependencies": {
+        "jquery": {
+          "version": "2.1.4"
+        }
+      }
+    }
+  }
+}
