@@ -1,6 +1,6 @@
 Package.describe({
   name: 'poetic:jquery.appear',
-  version: '0.0.5',
+  version: '0.0.6',
   // Brief, one-line summary of the package.
   summary: 'Meteor wrapper for jQuery.appear',
   // URL to the Git repository containing the source code for this package.
@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'jquery-appear-poetic': '0.3.8'
+  'jquery-appear-poetic': '0.3.9'
 });
 
 Package.onUse(function(api) {
